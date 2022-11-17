@@ -1,0 +1,128 @@
+---
+title: "Ryan Howell's resume"
+author: Rhowell
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ryanhowell42@protonmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/ryanhowell42](linkedin.com/in/ryanhowell42)
+- <i class="fa fa-github"></i> [github.com/rhowell421](https://github.com/rhowell421)
+- <i class="fa fa-phone"></i> +1 423-827-7620
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Team Building	
+- Project Management
+- Technical writing in military setting	  
+- R Project for Statistical Computing 
+- Microsoft Office and SharePoint
+- Data Visualization
+- Power BI
+- GitHub
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ryan L. Howell {#title}
+--------------------------------------------------------------------------------
+
+Transitioning professional Officer, rising to the rank of Major in the United States Army. Expert in personnel management, mission evaluation, and course of action analysis in multi-faceted operations. Seeking position where I can apply my extensive experience as a professional manager to ensure organizational success in a technically challenging business environment. 
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Business Intelligence Analyst
+
+US Army
+
+Fort Lee, Virginia
+
+Present - 2020
+
+- Designed and built tools to visualize operations and friction points to better see the organization and save resources 
+- Drafted and developed a comprehensive program to developing training guidance and best practices to formations across the Army
+- Streamlined the database section while providing support to 25 exercises covering 16 divisions, four corps, and two field armies
+
+
+### Executive Assistance to the Chief Executive Officer
+
+US Army
+
+Fort Detrick, Maryland
+
+2020 - 2019
+
+- Provided guidance and coordination to the headquarters staff and ensured timely execution of activities across the command  
+-	Executed front-side and backside logistics, synchronized resources, coordinated  transportation worldwide  
+- Formalized schedules of many DOD flag officers and Congressional staff members throughout the installation  
+
+
+### Director
+
+US Army
+
+Fort Belvoir, VA
+
+2019 - 2018
+
+- Commanded and responsible for the health, welfare, safety, morale, discipline, and training for over 330 Soldiers
+- Ensured inaugural success of the first two Military-Civilian trauma team hospitals, preparing the way for three more the following year
+
+
+### Team Lead
+
+US Army 
+
+Fort Campbell, KY and Fort Benning, GA
+
+2018 - 2012
+
+-	Achieved #1 unit for medical readiness out of 16 units while executing medical support for deployments to more than 20 African nations
+-	Earned the top score of all six medical platoons during the biannual inspection program, lead a successful training program resulting in five proficiency badges awarded and 100% Combat Medic recertifications
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Centre College
+
+B.S. in Biochemistry and Molecular Biology
+
+Danville, KY
+
+### Johns Hopkins University
+
+Certificate in Data Science Specialization
+
+Coursera
+
+Nov 2022 anticipated completion
+
