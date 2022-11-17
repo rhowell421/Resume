@@ -33,6 +33,7 @@ Skills {#skills}
 - R Project for Statistical Computing 
 - Microsoft Office and SharePoint
 - Data Visualization
+- Markdown
 - Power BI
 - GitHub
 
@@ -124,5 +125,5 @@ Certificate in Data Science Specialization
 
 Coursera
 
-Nov 2022 anticipated completion
+Dec 2022 anticipated completion
 
